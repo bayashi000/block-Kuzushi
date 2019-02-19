@@ -1,8 +1,8 @@
 ﻿<Properties StartupConfiguration="{8099BBDA-694D-5808-68FB-18184F5C0AF2}|">
   <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/utidai.cs">
     <Files>
-      <File FileName="Library/metadata/0e/0ec9e1011a14141449f0fbb15d3fab7c" />
-      <File FileName="Assets/Scripts/utidai.cs" Line="29" Column="30" />
+      <File FileName="Assets/Scripts/BALL.cs" Line="31" Column="31" />
+      <File FileName="Assets/Scripts/utidai.cs" Line="1" Column="26" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
