@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{8099BBDA-694D-5808-68FB-18184F5C0AF2}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/utidai.cs">
+    <Files>
+      <File FileName="Library/metadata/0e/0ec9e1011a14141449f0fbb15d3fab7c" />
+      <File FileName="Assets/Scripts/utidai.cs" Line="29" Column="30" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
